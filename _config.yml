@@ -26,7 +26,7 @@ app:
 
 lm:
   model: openai/gpt-oss-120b
-  max_output_tokens: 16384
+  max_output_tokens: 65536
   reasoning_effort: high
   temperature: 1.0
 
